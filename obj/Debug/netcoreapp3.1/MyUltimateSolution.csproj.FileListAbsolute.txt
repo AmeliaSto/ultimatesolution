@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Code\MyUltimateSolution\bin\Debug\netcoreapp3.1\MyUltimateSolution.exe
+C:\Users\Student\Desktop\Code\MyUltimateSolution\bin\Debug\netcoreapp3.1\MyUltimateSolution.deps.json
+C:\Users\Student\Desktop\Code\MyUltimateSolution\bin\Debug\netcoreapp3.1\MyUltimateSolution.runtimeconfig.json
+C:\Users\Student\Desktop\Code\MyUltimateSolution\bin\Debug\netcoreapp3.1\MyUltimateSolution.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Code\MyUltimateSolution\bin\Debug\netcoreapp3.1\MyUltimateSolution.dll
+C:\Users\Student\Desktop\Code\MyUltimateSolution\bin\Debug\netcoreapp3.1\MyUltimateSolution.pdb
+C:\Users\Student\Desktop\Code\MyUltimateSolution\obj\Debug\netcoreapp3.1\MyUltimateSolution.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Code\MyUltimateSolution\obj\Debug\netcoreapp3.1\MyUltimateSolution.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Code\MyUltimateSolution\obj\Debug\netcoreapp3.1\MyUltimateSolution.AssemblyInfo.cs
+C:\Users\Student\Desktop\Code\MyUltimateSolution\obj\Debug\netcoreapp3.1\MyUltimateSolution.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Code\MyUltimateSolution\obj\Debug\netcoreapp3.1\MyUltimateSolution.dll
+C:\Users\Student\Desktop\Code\MyUltimateSolution\obj\Debug\netcoreapp3.1\MyUltimateSolution.pdb
+C:\Users\Student\Desktop\Code\MyUltimateSolution\obj\Debug\netcoreapp3.1\MyUltimateSolution.genruntimeconfig.cache
